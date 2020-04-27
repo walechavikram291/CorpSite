@@ -53,7 +53,7 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">Ohio Lewis Center</a>
+                                            <a href="#">Ohio Columbus</a>
                                         </li>
                                       
                                     </ul>
