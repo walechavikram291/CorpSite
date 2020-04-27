@@ -53,10 +53,10 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">Columbus</a>
+                                            <a href="#">Ohio</a>
                                         </li>
                                         <li>
-                                            <a href="#">New York</a>
+                                            <a href="#">NewYork</a>
                                         </li>
                                     </ul>
                                 </li>
